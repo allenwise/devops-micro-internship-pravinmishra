@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I have always had this discussion with some people how hardwork sometimes pay off. yes you might be wondering why i used the word "sometimes" Well a quite number of people believe that despite hard work you might get fixed to that not-winnig status. This is actually define by society but there is a catch to all this, which is how you engaged goals and how you defined it (What i tell my critics) Like my journey, I was so keen in learning new things and spending time on my laptop but to others it was a journey that won't bear fruits. But to the critics bewilderment they all see were the dots got connected. 
 
 ---
 
@@ -55,23 +55,20 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+No room for doubting Thomas
 
 ### Evidence from my life
 
-Add your answer here...
-
----
-
+This was an Issue of wifi on devices. The user's at some point will lose network connection on there device while at work. so sometimes we use one of our platform to establish network which at some point it stops working. So had a deep thought where this devices are being managed and experimented advice by reprovisiong from the AD. Surprisingly it fixed the Issue and my colleagues resorted to my steps. 
 ## Truth #2
 
 ### Truth
 
-Add your answer here...
+It quells Curiosity
 
 ### Evidence from my life
 
-Add your answer here...
+This particular scene was during my days as a Technical support engineer in Microsoft. When I was meant to support a customers environment and he refused to share his screen because of doubts.I had to experiment with this user by supporting him blindly and I got the issue fixed.
 
 ---
 
@@ -79,11 +76,12 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Creates room for more creativty and thinking
 
 ### Evidence from my life
 
-Add your answer here...
+
+So as IT system Admin we support Microsoft Applications but not inside the VM because we have a different department that handles it. So i get more request from users raising concerns about Apps (Microsoft) being crashed or unresponsive Ms Apps. So i had to use my environment to test the solution thought of and it worked. Tried that with user's environment and it got sorted.
 
 ---
 
@@ -135,15 +133,17 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+
+I have always been enthusiastic about becoming a devops Mid-to-senior level engineer. This all started with me going through linux as beginner till the journey started getting more serious. I once pictured myself with this feat (Devops Engineer) but still struggled with my bearing. I am always locked with Ideas, how it should look like and brought into reality. This year June 2026 that dream is picturing into that reality and with the DMI Cohort 3 in the picture, my career will definitely give birth to all i have fantasied previously. This pattern of progress will metamorphosize with great change.
+
+By year 2 or 3, I will no longer surround myself with basic tickets or following step-by-step run-books. I will move from a Junior role to a trusted Mid-Level Engineer, and entrusted to own complete systems end-to-end. I will then see to deploying microservice and be able to design and implement the CI/CD pipeline, write the infrastructure code (IaC), and set up the alerting from scratch.  The Tech Stack shift:From: Copy-pasting Docker-files or clicking through the AWS/Azure console.  To: Writing reusable, dry Terra-form modules, orchestrating production workloads on Kubernetes, and automating complex workflows using Python or other languages 
+
+By 4-5 years in Devops Engineer I will be able build individual pipelines, also design the CI/CD strategy for the entire company. I will be heavily involved in architecture decisions, designing systems to handle millions of requests without breaking a sweat. i’ll dive deep into advanced paradigms like GitOps (using tools like ArgoCD), Service Meshes (like Istio) for microservice communication, and multi-region cloud architectures. Also see myself as a consultant and a mentor. A huge part of my job will now surround in pair-programming with mid-level engineers and teaching software developers how to build cloud-native, easily deployable software. 
 
 ### Public Link
 
-Paste your link here:
+[Paste your link here:](https://www.linkedin.com/posts/egbuna-daniel-435b7696_join-the-dmi-devops-micro-internship-share-7477073878951968770-4ALm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABR2RekBqufJqao9en101drRcFyH1W5H7Xc)
 
-`__________________________`
-
----
 
 # Assignment 4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
 
@@ -173,7 +173,8 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+**Yes
+It was something I had to tell myself I won't engage, because that feeling of being honest regardless of what it is killed me inwardly. I noticed all through out that weak I felt absolutely lost, numbness set in. It was all written on my face. I am a person filled with conscience, so that singular act shattered me deeply.
 
 ---
 
@@ -199,16 +200,31 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits
+
+![Assignment 5 Screenshot](screenshots/week-01-screenshot-01.png)
+
+2. Patriot 
+![Assignment 5 Screenshot](screenshots/Patriot.jpg)
+
+3. Inside the Box
+![Assignment 5 Screenshot](screenshots/inside_the_box.jpg)
+
+4. Say Nothing
+![Assignment 5 Screenshot](screenshots/Say_nothing.jpg)
+
+5. Strangers
+![Assignment 5 Screenshot](screenshots/starngers.jpg)
+6. Checkmate
+![Assignment 5 Screenshot](screenshots/Checkmate.jpeg)
+7. How to Know a Person
+![Assignment 5 Screenshot](screenshots/How_to_know_a_person.jpg)
+8. Four Thousand Weeks
+![Assignment 5 Screenshot](screenshots/Four_thousand_weeks.jpg)
+9. London Falling
+![Assignment 5 Screenshot](screenshots/London_Falling.jpg)
+10. Everything Is Tuberculosis
+![Assignment 5 Screenshot](screenshots/Everythin_is_turberculosis.jpeg)
 
 ---
 
@@ -237,16 +253,12 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* My input pattern daily
+* My sleeping pattern by hours
+* Research Pattern towards my course daily
+* Workouts routine
+* Collarborations with colleagues/ Team work
+* regular jottings after new research 
 
 ---
 
@@ -270,9 +282,12 @@ Examples:
 
 **Yes / No**
 
-Answer:
+Answer: *Yes
 
-Add your answer here...
+Project/Task completion
+Deep thinking on New Projects
+Ownership centric
+Break & Fix Model
 
 ---
 
@@ -290,19 +305,20 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
-
+Mon-Friday: 1hr dail reading
+Sat: DMI Session + 2hrs review on lesson recap
+Sun: Research & Integration
 ---
 
 ### Focus Blocks
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Mon-Fri + 2hrs each day
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+4-5 sessions
 
 ---
 
@@ -316,7 +332,10 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Prioritize Night Reading
+Zero Social Access during session
+Flight Mode during session
+Cut off social visit
 
 ---
 
@@ -324,28 +343,28 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+The posivity and drive that am currently investing in this journey of my career - DMI chort 3
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+Time to organise almost immediately after work so I can start my planned session
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Reading Alarm atleats for 2 hrs everyday
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
 
-`__________________________`
+https://www.linkedin.com/posts/egbuna-daniel-435b7696_join-the-dmi-devops-micro-internship-share-7477073878951968770-4ALm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABR2RekBqufJqao9en101drRcFyH1W5H7Xc
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: 
+https://www.linkedin.com/posts/egbuna-daniel-435b7696_join-the-dmi-devops-micro-internship-share-7477073878951968770-4ALm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABR2RekBqufJqao9en101drRcFyH1W5H7Xc
+- Blog / Medium :(https://www.linkedin.com/posts/egbuna-daniel-435b7696_join-the-dmi-devops-micro-internship-share-7477073878951968770-4ALm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABR2RekBqufJqao9en101drRcFyH1W5H7Xc)
 
 ---
 
