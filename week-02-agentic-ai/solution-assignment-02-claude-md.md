@@ -20,7 +20,7 @@ Capture Claude’s response before `CLAUDE.md` exists in the project to establis
 
 #### Screenshot 1 — Claude response before CLAUDE.md
 
-Add your screenshot here.
+![Claude absence](<Screenshot from 2026-07-09 22-19-48.png>)
 
 ---
 
@@ -34,7 +34,7 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 
 #### Screenshot 2 — Auto-generated CLAUDE.md
 
-Add your screenshot here.
+![Claude present](<Screenshot from 2026-07-09 22-27-37.png>)
 
 ---
 
@@ -48,7 +48,7 @@ Update the generated `CLAUDE.md` file by adding project-specific instructions ac
 
 #### Screenshot 3 — Customized CLAUDE.md (all 5 sections visible)
 
-Add your screenshot here.
+![Adjusted Claude.md](<Screenshot from 2026-07-10 12-20-18.png>)
 
 ---
 
@@ -62,13 +62,13 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 #### Screenshot 4 — Claude response with project-specific deployment details
 
-Add your screenshot here.
+![Calude response](<Screenshot from 2026-07-10 13-14-50.png>)
 
 ---
 
 #### Screenshot 5 — Claude response rejecting React/component change based on rules
 
-Add your screenshot here.
+![React Decline](<Screenshot from 2026-07-10 13-19-05.png>)
 
 ---
 
@@ -84,7 +84,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+(https://github.com/allenwise/Ultimate-Agentic-DevOps-with-Claude-Code)
 
 ---
 

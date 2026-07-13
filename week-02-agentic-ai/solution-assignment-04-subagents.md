@@ -20,9 +20,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — Agents folder structure in VS Code
 
-Add your screenshot here.
-
----
+![Subagent created](Screenshot from 2026-07-10 20-43-16.png0 20-03-23.png>)
 
 # Task 2 — Compare the Agent Configurations
 
@@ -34,35 +32,29 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
 
-Add your answer here...
-
----
+- Haiku is typically chosen for tasks that require speed and efficiency over depth. Cost optimization often involves scanning large datasets, running quick heuristics, and producing lightweight recommendations.
+- Sonnet, on the other hand, is more resource-intensive and tuned for nuanced reasoning. For cost optimization, that   extra depth isn’t always necessary — the priority is fast, scalable analysis
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
-
----
+Security auditor roles are designed to be read-only by principle. They inspect, verify, and flag issues but should not alter configurations directly.
+Removing “Write” ensures separation of duties: auditors can’t accidentally or maliciously change what they’re meant to review. This enforces compliance and prevents conflicts of interest.
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
-Add your answer here...
-
----
+The tf-writer is often a utility that generates Terraform files or infrastructure-as-code templates.
+By using inherit, it ensures consistency with the parent workflow’s model choice. This avoids mismatches where the writer might generate code based on a different reasoning engine than the one used to plan or validate infrastructure.
+It’s essentially a safeguard: the writer inherits the model context so outputs align with the rest of the pipeline.
 
 ### Evidence
 
 #### Screenshot 2 — security-auditor.md frontmatter
 
-Add your screenshot here.
-
----
+![Security Snap](<Model for security.jpg>)
 
 #### Screenshot 3 — cost-optimizer.md frontmatter
 
-Add your screenshot here.
-
----
+![cost snap](<Cost Model.jpg>)
 
 # Task 3 — Run the Security Auditor
 
@@ -74,15 +66,11 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — Security auditor delegation triggered
 
-Add your screenshot here.
-
----
+![Triggered Report](<Screenshot from 2026-07-10 21-13-20.png>)
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
-
----
+![Audit Report](<Screenshot from 2026-07-10 21-14-33.png>)
 
 # Task 4 — Run the Cost Optimizer
 
@@ -111,17 +99,13 @@ Add your screenshot here.
 
 Paste your Google Doc URL here:
 
-`__________________________`
-
----
+https://docs.google.com/document/d/1HuYFJTghDIxCxSJ9Sl0Ucfn9ckrkH4HbUpUsSu82HHA/edit?usp=sharing
 
 ## GitHub Repository URL
 
 Paste your forked repository URL here:
 
-`__________________________`
-
----
+https://github.com/allenwise/Ultimate-Agentic-DevOps-with-Claude-Code
 
 # Completion Checklist
 
