@@ -18,7 +18,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 ### Evidence
 
-#### Screenshot 1 — Agents folder structure in VS Code
+#### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
 ![Subagent created](Screenshot from 2026-07-10 20-43-16.png0 20-03-23.png>)
 
@@ -48,11 +48,11 @@ It’s essentially a safeguard: the writer inherits the model context so outputs
 
 ### Evidence
 
-#### Screenshot 2 — security-auditor.md frontmatter
+#### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
 ![Security Snap](<Model for security.jpg>)
 
-#### Screenshot 3 — cost-optimizer.md frontmatter
+#### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
 ![cost snap](<Cost Model.jpg>)
 
@@ -64,7 +64,7 @@ Trigger the security auditor agent and analyze the generated security report for
 
 ### Evidence
 
-#### Screenshot 4 — Security auditor delegation triggered
+#### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
 ![Triggered Report](<Screenshot from 2026-07-10 21-13-20.png>)
 
@@ -80,7 +80,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 ### Evidence
 
-#### Screenshot 6 — Cost optimization report output
+#### Screenshot 6 — The full cost optimization report
 
 Add your screenshot here.
 
@@ -89,8 +89,9 @@ Add your screenshot here.
 # Submission Instructions
 
 - Ensure all agent files are committed in `.claude/agents/`
-- Complete all written answers in your Google Doc submission
+- Complete all written answers in your GitHub Repo
 - Push final changes to your forked GitHub repository
+<<<<<<< HEAD
 - Submit only the Google Doc link as required
 
 ---
@@ -100,6 +101,10 @@ Add your screenshot here.
 Paste your Google Doc URL here:
 
 https://docs.google.com/document/d/1HuYFJTghDIxCxSJ9Sl0Ucfn9ckrkH4HbUpUsSu82HHA/edit?usp=sharing
+=======
+
+---
+>>>>>>> upstream/main
 
 ## GitHub Repository URL
 
@@ -112,7 +117,7 @@ https://github.com/allenwise/Ultimate-Agentic-DevOps-with-Claude-Code
 - [ ] `.claude/agents/` folder contains all 3 agent files
 - [ ] Screenshot 2 shows correct `security-auditor.md` configuration
 - [ ] Screenshot 3 shows correct `cost-optimizer.md` configuration
-- [ ] All 3 written answers completed in Google Doc
+- [ ] All 3 written answers completed 
 - [ ] Security auditor executed successfully
 - [ ] Cost optimizer executed successfully
 - [ ] Security report is visible with findings
