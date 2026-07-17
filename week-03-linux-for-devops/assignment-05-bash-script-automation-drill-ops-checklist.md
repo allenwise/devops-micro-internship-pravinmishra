@@ -108,9 +108,7 @@ Use variables to store and display user-related information.
 A![script info](screenshots/info_sh.png)
 #### Screenshot 2 — Output of `./user-info.sh`
 
-Add your screenshot here.
-
----
+![bash_output](screenshots/output_infoBash.png)
 
 ### Notes
 
@@ -118,20 +116,18 @@ Answer the following in your own words:
 
 **1. What is a variable in Bash?**
 
-Add your answer here.
+A variable in Bash is simply a named container that stores a value (like text, numbers, or even the result of a command) so you can reuse it later in your script.
 
 ---
 
 **2. Why should we avoid spaces around the `=` sign when creating variables?**
 
-Add your answer here.
-
+In Bash, spaces around the = sign break variable assignment because Bash interprets them differently than you might expect.
 ---
 
 **3. How do you access the value stored inside a Bash variable?**
 
-Add your answer here.
-
+In Bash, you access the value stored inside a variable by prefixing the variable name with a $ symbol.
 ---
 
 # Task 4 — Arrays & Loops: Tools Checklist Script
@@ -165,20 +161,17 @@ Add your answer here.
 ---
 
 **2. Why are arrays useful in scripts?**
-
-Add your answer here.
-
----
+Arrays in Bash are useful because they let you store and manage multiple values under a single variable name, instead of creating dozens of separate variables. This makes scripts cleaner, more powerful, and easier to maintain.
 
 **3. What does `"${tools[@]}"` mean?**
 
-Add your answer here.
+In Bash, "${tools[@]}" is a way to expand all the elements of an array called tools. It’s one of the most common patterns you’ll see when working with arrays in scripts.
 
 ---
 
 **4. What is the purpose of the `for` loop in this script?**
 
-Add your answer here.
+The purpose of the for loop in your script is to repeat a set of commands for each item in a list or array.
 
 ---
 
