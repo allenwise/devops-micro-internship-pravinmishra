@@ -20,15 +20,11 @@ Verify that Bash is available on your system and create a clean workspace for th
 
 #### Screenshot 1 — Output of `echo $SHELL` and `bash --version`
 
-Add your screenshot here.
-
----
+![bash&version](screenshots/bash&Version.png)
 
 #### Screenshot 2 — Output of `pwd` and `ls -lah` showing the scripts directory
 
-Add your screenshot here.
-
----
+![bash_dir](screenshots/bash_directory.png)
 
 ### Notes
 
@@ -36,21 +32,14 @@ Answer the following in your own words:
 
 **1. What is Bash?**
 
-Add your answer here.
-
----
-
+Bash is basically the “voice” you use to talk directly to your computer’s operating system — instead of clicking icons, you type commands, and the computer listens and responds. It’s both a command-line tool and a scripting language, making it powerful for everyday tasks and automation.
 **2. What is the difference between shell and Bash?**
 
-Add your answer here.
-
----
+a shell is the general program that lets you talk to your operating system with commands, while Bash is one specific type of shell — the “Bourne Again Shell” — that adds more features and is the default on most Linux systems.
 
 **3. Why is it important to confirm the Bash version before writing scripts?**
 
-Add your answer here.
-
----
+It’s important to confirm the Bash version before writing scripts because different versions support different features, and older versions may lack commands or contain security vulnerabilities. 
 
 # Task 2 — Your First Bash Script
 
@@ -62,19 +51,15 @@ Create your first Bash script, make it executable, and run it from the terminal.
 
 #### Screenshot 1 — Content of `first-script.sh`
 
-Add your screenshot here.
-
----
+![bash_scripts](screenshots/bash_scripts.png)
 
 #### Screenshot 2 — Output of `./first-script.sh`
 
-Add your screenshot here.
-
----
+![run_scripts](screenshots/run_bash.png)
 
 #### Screenshot 3 — Output of `ls -l first-script.sh` showing executable permission
 
-Add your screenshot here.
+![ls_lh_bash](screenshots/ls-lh_bash.png)
 
 ---
 
@@ -84,19 +69,29 @@ Answer the following in your own words:
 
 **1. What is the purpose of `#!/bin/bash`?**
 
-Add your answer here.
-
----
+It tells the operating system: “Run this script using Bash.” Without it, the system might try to run the script with another shell (like sh or dash), which could cause errors if your script uses Bash-specific features.
 
 **2. Why do we use `chmod +x` before running a script?**
 
-Add your answer here.
-
----
+chmod changes file permissions. The +x flag adds “execute” permission, meaning the file can be run like a program.
 
 **3. What is the difference between running a script using `./script.sh` and `bash script.sh`?**
 
-Add your answer here.
+./script.sh
+
+    Runs the script as a standalone program.
+
+    The operating system looks at the shebang line (#!/bin/bash) at the top of the file to decide which interpreter to use.
+
+    Requires the script to have execute permission (chmod +x script.sh).
+
+bash script.sh
+
+    Explicitly tells the system: “Run this file using Bash.”
+
+    Does not require execute permission — it’s just being passed as input to the bash program.
+
+    Ignores the shebang line, because you already specified Bash.
 
 ---
 
@@ -110,10 +105,7 @@ Use variables to store and display user-related information.
 
 #### Screenshot 1 — Content of `user-info.sh`
 
-Add your screenshot here.
-
----
-
+A![script info](screenshots/info_sh.png)
 #### Screenshot 2 — Output of `./user-info.sh`
 
 Add your screenshot here.

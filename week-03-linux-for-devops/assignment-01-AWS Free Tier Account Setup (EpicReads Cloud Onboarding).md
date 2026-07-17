@@ -20,21 +20,27 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-Write your answer here.
+An AWS account is your personal or company “container” in Amazon Web Services. It gives you a unique identity and login, so AWS knows who you are.
 
+## why?
+
+Access AWS console: The web dashboard where you manage services.
+
+Provision resources: Launch servers, create storage buckets, etc.
+
+Track usage and billing: AWS charges you based on what you use, so the account keeps records.
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
+AWS Free Tier is a program that lets new customers access AWS services for free. 
+It lasts up to 6 months 
 
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
-
----
+Three popular AWS Free Tier services are Amazon EC2, Amazon S3, and Amazon DynamoDB. Each comes with specific free usage limits: EC2 offers 750 hours/month of a micro instance, S3 provides 5 GB of storage, and DynamoDB allows 25 GB of storage plus 25 write/read capacity units.
 
 # Task 2 — Create AWS Free Tier Account
 
@@ -57,7 +63,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
 Add your screenshot here.
-
+[AWS Page](../../../..)
 ---
 
 # Submission Instructions
