@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-I have always had this discussion with some people how hardwork sometimes pay off. yes you might be wondering why i used the word "sometimes" Well a quite number of people believe that despite hard work you might get fixed to that not-winnig status. This is actually define by society but there is a catch to all this, which is how you engaged goals and how you defined it (What i tell my critics) Like my journey, I was so keen in learning new things and spending time on my laptop but to others it was a journey that won't bear fruits. But to the critics bewilderment they all see were the dots got connected. 
+I have always had this discussion with some people how hardwork sometimes pay off. yes you might be wondering why i used the word "sometimes" Well a quite number of people believe that despite hard work you might get fixed to that not-winnig status. This is actually define by society but there is a catch to all this, which is how you engaged goals and how you defined it (What i tell my critics) Like my journey, I was so keen in learning new things and spending time on my laptop but to others it was a journey that won't bear fruits. But to the critics bewilderment they all see were the dots got connected.
 
 ---
 
