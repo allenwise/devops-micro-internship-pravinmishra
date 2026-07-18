@@ -63,7 +63,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
 Add your screenshot here.
-[AWS Page](../../../..)
+![AWS page](<../week-02-agentic-ai/screenshots/Aws  Account.png>)
 ---
 
 # Submission Instructions
